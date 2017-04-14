@@ -5,4 +5,5 @@ Git tracks changes changes of files.
 
 This is in the dev branch edit.
 
-Creating a new branch is quick & simple.
+Creatin a new branch is quick and simple
+
