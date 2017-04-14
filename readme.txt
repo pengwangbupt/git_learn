@@ -8,3 +8,6 @@ This is in the dev branch edit.
 Creatin a new branch is quick and simple
 
 This is the develop branch.
+
+
+This is edit in the bug branch ,but bug branch isn't push to remote.
